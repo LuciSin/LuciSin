@@ -1,8 +1,12 @@
 # Hi there 👋 I'm Lucian
 
-[Bio content you approved]
+🛠️ Core Skills
 
-## 🌟 Featured Projects
+Data Tools: R (ggplot2, tidyverse), Python (Pandas, Matplotlib)
+
+Relational Databases: MySQL, Oracle
+
+Data Analysis, Regression analysis
 
 ## 📌 Pinned Repositories
 [![Romania Energy Analysis](https://github-readme-stats.vercel.app/api/pin/?username=LuciSin&repo=Romania-Energy-Analysis)](https://github.com/LuciSin/Romania-Energy-Analysis)
