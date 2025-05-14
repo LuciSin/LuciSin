@@ -15,9 +15,8 @@ Data Analysis, Regression analysis
 
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LuciSin.LuciSin)
-Last Updated: { {date.now('YYYY-MM-DD') } }
 
-📫 How to reach me: [[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/lucian-spiridon-741692236/)]
+
 ## 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/lucian-spiridon-741692236/)
