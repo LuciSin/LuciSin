@@ -18,3 +18,7 @@ Data Analysis, Regression analysis
 Last Updated: { {date.now('YYYY-MM-DD') } }
 
 📫 How to reach me: [[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/lucian-spiridon-741692236/)]
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/lucian-spiridon-741692236/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:lucianvalentinspiridon@gmail.com)
